@@ -12,7 +12,7 @@ meu nome é fabricio
 ## Estudando:
 
 - javascript
-- HTML e CSS
+- React
 
 ## Contatos
 

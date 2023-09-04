@@ -2,7 +2,7 @@
 
 I'm Fabricio, I have 18 years, I'm learning React and looking for job. / Meu nome é Fabricio, tenho 18 anos, estou aprendendo React e buscando trabalho
 
-## :🤙 Hobbies:
+## 🤙 Hobbies:
 
 - Read / Ler
 - Play / Jogar
@@ -13,7 +13,7 @@ I'm Fabricio, I have 18 years, I'm learning React and looking for job. / Meu nom
 - **Programming Languages / Linguagens de Programação:** HTML, CSS, JavaScript e Sass.
 - **Technologies / Tecnologias:** React, Node.
 
-## :✏️ learning / Estudando
+## ✏️ learning / Estudando
 
 - javascript
 - React
@@ -24,6 +24,6 @@ I'm Fabricio, I have 18 years, I'm learning React and looking for job. / Meu nom
 - instagram: zago.fabricio
 
 ## 📊 GitHub Stats / Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabricioZago&show_icons=true&count_private=true)
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch. Let's create amazing things together! 🚀 / Obrigado por visitar meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato. Vamos criar coisas incríveis juntos! 🚀

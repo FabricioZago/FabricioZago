@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋 / Bem-vindo ao meu Perfil no GitHub! 👋
 
-I'm Fabricio, I have 18 years, I'm learning React and looking for job. / Meu nome é Fabricio, tenho 18 anos, estou aprendendo React e buscando trabalho
+I'm Fabricio, I have 19 years. / Meu nome é Fabricio, tenho 19 anos.
 
 ## 🤙 Hobbies:
 
@@ -10,13 +10,12 @@ I'm Fabricio, I have 18 years, I'm learning React and looking for job. / Meu nom
 - Draw / Desenhar
 
 ## 🛠️ Skills / Habilidades
-- **Programming Languages / Linguagens de Programação:** HTML, CSS, JavaScript e Sass.
+- **Programming Languages / Linguagens de Programação:** HTML, CSS, JavaScript, Sass e advpl.
 - **Technologies / Tecnologias:** React, Node.
 
 ## ✏️ learning / Estudando
 
-- javascript
-- React
+- C
 
 ## 📫 How to Reach Me / Como me Encontrar
 - LinkedIn: [Fabrício Zago](https://www.linkedin.com/in/fabrício-zago-72367a279/)
